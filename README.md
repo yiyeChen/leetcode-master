@@ -1,4 +1,3 @@
-
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
@@ -95,46 +94,67 @@
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/递归算法的时间复杂度.md)
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/空间复杂度.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
-    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/内存消耗.md)
+    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
 
+## 杂谈
+
+* [「代码随想录」刷题网站上线](https://mp.weixin.qq.com/s/-6rd_g7LrVD1fuKBYk2tXQ)。
+* [LeetCode-Master上榜了](https://mp.weixin.qq.com/s/wZRTrA9Rbvgq1yEkSw4vfQ)
+* [上榜之后，都有哪些变化？](https://mp.weixin.qq.com/s/VJBV0qSBthjnbbmW-lctLA)
+* [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
+* [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
 
 ## 数组 
 
-1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
-2. [数组：704.二分查找](./problems/0704.二分查找.md)
-3. [数组：27.移除元素](./problems/0027.移除元素.md)
-4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    
-5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
-6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
-7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
-8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
-9. [数组：总结篇](./problems/数组总结篇.md)
+- [x] [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
+
+- [x] [数组Easy：二分查找](./problems/0704.二分查找.md)
+
+- [x] [数组Easy：移除元素](./problems/0027.移除元素.md)
+
+- [ ] [数组Easy：序数组的平方](./problems/0977.有序数组的平方.md)    
+
+- [x] [数组M：长度最小的子数组](./problems/0209.长度最小的子数组.md)
+
+- [ ] [数组M：螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
+
+- [ ] [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
 
-1. [关于链表，你该了解这些！](./problems/链表理论基础.md)
-2. [链表：203.移除链表元素](./problems/0203.移除链表元素.md)
-3. [链表：707.设计链表](./problems/0707.设计链表.md)
-4. [链表：206.翻转链表](./problems/0206.翻转链表.md) 
-5. [链表：24.两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)
-6. [链表：19.删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
-7. [链表：链表相交](./problems/面试题02.07.链表相交.md)
-8. [链表：142.环形链表](./problems/0142.环形链表II.md)
-9. [链表：总结篇！](./problems/链表总结篇.md)
+- [x] [关于链表，你该了解这些！](./problems/链表理论基础.md)
+- [x] [链表Easy：移除链表元素](./problems/0203.移除链表元素.md)
+- [x] [链表M：设计链表](./problems/0707.设计链表.md)
+- [x] [链表E：翻转链表](./problems/0206.翻转链表.md) 
+- [x] [链表M：两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)
+- [ ] [链表M：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
+- [ ] [链表M：链表相交](./problems/面试题02.07.链表相交.md)
+- [ ] [链表M：环形链表](./problems/0142.环形链表II.md)
+- [ ] [链表：总结篇！](./problems/链表总结篇.md)
 
 ## 哈希表
 
-1. [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
-2. [哈希表：242.有效的字母异位词](./problems/0242.有效的字母异位词.md)
-3. [哈希表：1002.查找常用字符](./problems/1002.查找常用字符.md)
-4. [哈希表：349.两个数组的交集](./problems/0349.两个数组的交集.md)
-5. [哈希表：202.快乐数](./problems/0202.快乐数.md)
-6. [哈希表：1.两数之和](./problems/0001.两数之和.md)
-7. [哈希表：454.四数相加II](./problems/0454.四数相加II.md)
-8. [哈希表：383.赎金信](./problems/0383.赎金信.md)
-9. [哈希表：15.三数之和](./problems/0015.三数之和.md)
-10. [双指针法：18.四数之和](./problems/0018.四数之和.md)
-11. [哈希表：总结篇！](./problems/哈希表总结.md)
+- [x] [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
+
+- [x] [哈希表E：有效的字母异位词](./problems/0242.有效的字母异位词.md)
+
+- [x] [哈希表E：查找常用字符](./problems/1002.查找常用字符.md)
+
+- [ ] [哈希表E：两个数组的交集](./problems/0349.两个数组的交集.md)
+
+- [ ] [哈希表E：快乐数](./problems/0202.快乐数.md)
+
+- [ ] [哈希表E：两数之和](./problems/0001.两数之和.md)
+
+- [ ] [哈希表M_prem：四数相加II](./problems/0454.四数相加II.md)
+
+- [ ] [哈希表E：赎金信](./problems/0383.赎金信.md)
+
+- [x] [哈希表M：三数之和](./problems/0015.三数之和.md)
+
+- [ ] [双指针法M：四数之和](./problems/0018.四数之和.md)
+
+- [ ] [哈希表：总结篇！](./problems/哈希表总结.md)
 
 
 ## 字符串
