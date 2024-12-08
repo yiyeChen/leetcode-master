@@ -212,40 +212,98 @@
 <img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 - [x] [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
+
 - [x] [二叉树：二叉树的递归遍历 (用递归做三种深度遍历)](./problems/二叉树的递归遍历.md)
+
 - [x] [二叉树：二叉树的迭代遍历 (用栈做三种深度遍历 - tricky， 不统一)](./problems/二叉树的迭代遍历.md)
+
 - [x] [二叉树：二叉树的统一迭代法 (统一的栈做三种深度遍历方法)](./problems/二叉树的统一迭代法.md)
+
 - [x] [二叉树M：二叉树的层序遍历 - 10 questions are included here, which can be solved in a same way](./problems/0102.二叉树的层序遍历.md) 
+
 - [x] [二叉树E：翻转二叉树](./problems/0226.翻转二叉树.md) 
+
 - [x] [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
+
 - [x] [二叉树E：对称二叉树](./problems/0101.对称二叉树.md)
+
 - [x] [二叉树E：二叉树的最大深度](./problems/0104.二叉树的最大深度.md)
+
 - [x] [二叉树E：二叉树的最小深度](./problems/0111.二叉树的最小深度.md)
+
 - [x] [二叉树M：完全二叉树的节点个数](./problems/0222.完全二叉树的节点个数.md)
+
 - [ ] [二叉树E：平衡二叉树](./problems/0110.平衡二叉树.md) - Review
+
 - [ ] [二叉树E：二叉树的所有路径](./problems/0257.二叉树的所有路径.md)
+
 - [ ] [本周总结！二叉树系列二](./problems/周总结/20201003二叉树周末总结.md)
+
 - [ ] [二叉树：二叉树中递归带着回溯](./problems/二叉树中递归带着回溯.md)
+
 - [ ] [二叉树E：左叶子之和](./problems/0404.左叶子之和.md)
+
 - [ ] [二叉树M：找树左下角的值](./problems/0513.找树左下角的值.md)
+
 - [ ] [二叉树E：路径总和](./problems/0112.路径总和.md)
+
 - [ ] [二叉树M：构造二叉树](./problems/0106.从中序与后序遍历序列构造二叉树.md)
+
 - [ ] [二叉树M：最大二叉树](./problems/0654.最大二叉树.md)
+
 - [ ] [本周小结！（二叉树系列三）](./problems/周总结/20201010二叉树周末总结.md) 
+
 - [ ] [二叉树E：合并两个二叉树](./problems/0617.合并二叉树.md)
+
 - [ ] [二叉树E：二叉搜索树登场！](./problems/0700.二叉搜索树中的搜索.md)
+
 - [ ] [二叉树M：验证二叉搜索树](./problems/0098.验证二叉搜索树.md)
+
 - [ ] [二叉树E：搜索树的最小绝对差](./problems/0530.二叉搜索树的最小绝对差.md)
+
 - [ ] [二叉树E：二叉搜索树中的众数](./problems/0501.二叉搜索树中的众数.md)
+
 - [ ] [二叉树M：公共祖先问题](./problems/0236.二叉树的最近公共祖先.md)
+
 - [ ] [本周小结！（二叉树系列四）](./problems/周总结/20201017二叉树周末总结.md)
+
 - [ ] [二叉树M：搜索树的最近公共祖先](./problems/0235.二叉搜索树的最近公共祖先.md)
+
 - [ ] [二叉树M：搜索树中的插入操作](./problems/0701.二叉搜索树中的插入操作.md)
+
 - [ ] [二叉树M：搜索树中的删除操作](./problems/0450.删除二叉搜索树中的节点.md)
+
 - [ ] [二叉树M：修剪一棵搜索树](./problems/0669.修剪二叉搜索树.md)
+
 - [ ] [二叉树E：构造一棵搜索树](./problems/0108.将有序数组转换为二叉搜索树.md)
+
 - [ ] [二叉树M：搜索树转成累加树](./problems/0538.把二叉搜索树转换为累加树.md)
+
 - [ ] [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](./problems/二叉树总结篇.md)
+
+- [ ] ----------- All breadth-first search
+
+- [ ] [102M.二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+
+- [ ] [107M.二叉树的层次遍历II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/)
+
+- [ ] [199M.二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)
+
+- [ ] [637E.二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)
+
+- [ ] [429M.N叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)
+
+- [ ] [515M.在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)
+
+- [ ] [116M.填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)
+
+- [ ] [117M.填充每个节点的下一个右侧节点指针II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)
+
+- [ ] [104E.二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
+- [ ] [111E.二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+
+  
 
 ## 回溯算法 
 
